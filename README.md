@@ -13,7 +13,7 @@
 ### Interpolation
 
 ### IC3/PDR
-1. Unbounded Model Checking, [slides](https://ece.uwaterloo.ca/~agurfink/ece750t29f18/assets/pdf/05_IC3_PDR.pdf);
+1. Unbounded Model Checking, IC3 and PDR, [slides](https://ece.uwaterloo.ca/~agurfink/ece750t29f18/assets/pdf/05_IC3_PDR.pdf);
 
 ### Fuzzing
 
