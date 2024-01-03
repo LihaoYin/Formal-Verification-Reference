@@ -1,6 +1,8 @@
-# Formal-Verification
+# Formal-Verification Reference List
 
 ## Introduction
+
+1. Clarke, EdmundM., et al. “Handbook of Model Checking.” Springer International Publishing eBooks, 2018, https://doi.org/10.1007/978-3-319-10575-8
 
 ## Model Checking Algorithms
 
