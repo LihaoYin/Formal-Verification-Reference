@@ -8,11 +8,12 @@
 
 ## Model Checking Algorithms
 ### Bounded Model Checking
-1. **BMC**, Armin Biere et al.， Bounded Model Checking， 2003；[paper] (https://www.cs.cmu.edu/~emc/papers/Books%20and%20Edited%20Volumes/Bounded%20Model%20Checking.pdf)
-2. **K-IND**, 
+1. **BMC and K-IND**, Armin Biere et al.， Bounded Model Checking， 2003；[paper](https://www.cs.cmu.edu/~emc/papers/Books%20and%20Edited%20Volumes/Bounded%20Model%20Checking.pdf)
+
 ### Interpolation
 
 ### IC3/PDR
+1. Unbounded Model Checking, [slides](https://ece.uwaterloo.ca/~agurfink/ece750t29f18/assets/pdf/05_IC3_PDR.pdf);
 
 ### Fuzzing
 
