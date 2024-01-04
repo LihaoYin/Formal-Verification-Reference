@@ -26,7 +26,8 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
    
 ### 2.3 IC3/PDR
 1. Unbounded Model Checking, IC3 and PDR, [slides](https://ece.uwaterloo.ca/~agurfink/ece750t29f18/assets/pdf/05_IC3_PDR.pdf);
-2. Bradley, SAT-Based Model Checking without Unrolling, 2011, [paper](https://theory.stanford.edu/~arbrad/papers/IC3.pdf)
+2. Bradley, SAT-Based Model Checking without Unrolling, VMCAI 2011, [paper](https://theory.stanford.edu/~arbrad/papers/IC3.pdf)
+3. Efficient Implementation of Property Directed Reachability, FMCAD 2011, [paper](https://people.eecs.berkeley.edu/~alanmi/publications/2011/fmcad11_pdr.pdf)
 
 ### 2.4 Fuzzing
 
@@ -38,14 +39,17 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 
 ## 3. Tools
 ### 3.1 Bit-level Hardware Model Checker
+1. **abc**, including abc, abc-zz, super prove (best performace in open-source), [intro](https://people.eecs.berkeley.edu/~alanmi/abc/), [github](https://github.com/berkeley-abc)
+2. **iimc**, [github](https://github.com/mgudemann/iimc)
 
-### 3.2 Bit-level Hardware Synthesis
+### 3.2 Bit-level Hardware Logic Synthesis
 
 ### 3.3 Bit-level Hardware Data Structure
+1. **AIGER**, [paper](https://fmv.jku.at/papers/Biere-FMV-TR-07-1.pdf), [github](https://github.com/arminbiere/aiger)
 
 ### 3.4 Word-level Hardware Model Checker
 1. **Pono**, [paper](https://theory.stanford.edu/~barrett/pubs/MIL+21.pdf), [github](https://github.com/stanford-centaur/pono)
-2. **Avr**, [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-45190-5_23.pdf), [github](https://github.com/aman-goel/avr)
+2. **Avr** (best performace in open-source), [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-45190-5_23.pdf), [github](https://github.com/aman-goel/avr)
 3. **Spacer in Z3 Theorem Prover**, [introduction](https://spacer.bitbucket.io/), [github](https://github.com/Z3Prover/z3/tree/master/src/muz/spacer)
 
 ### 3.5 Word-level Data Structure
