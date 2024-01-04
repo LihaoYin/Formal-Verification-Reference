@@ -22,7 +22,7 @@
    i. [survey paper](https://arxiv.org/abs/2305.11391) <br />
    ii. [FuzzGPT](https://arxiv.org/abs/2304.02014) <br />
 
-## 2. Model Checking Algorithms
+## 2. Formal Verification Algorithms
 ### 2.1 Bounded Model Checking
 1. **BMC and K-IND**, Armin Biere et al.， Bounded Model Checking，2003, [paper](https://www.cs.cmu.edu/~emc/papers/Books%20and%20Edited%20Volumes/Bounded%20Model%20Checking.pdf)
 2. **K-Induction**, 
