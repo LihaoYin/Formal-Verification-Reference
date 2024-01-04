@@ -87,8 +87,10 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 
 | Tester | Ref | github | Affiliation | Comments |
 | :-----| ----: | :----: | :-----| ----: |
-| VeriFuzz | 45 |  | Tata Consultancy Services, India |  |
-| 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
+| VeriFuzz | [paper](https://link.springer.com/chapter/10.1007/978-3-030-99429-7_20) |  | Tata Consultancy Services, India |  |
+| FuSeBMC | [paper](https://link.springer.com/chapter/10.1007/978-3-030-99429-7_19), [paper](https://link.springer.com/chapter/10.1007/978-3-030-79379-1_6) |  | U. of Manchester, UK |  |
+| FuSeBMC_IA | [paper](https://link.springer.com/chapter/10.1007/978-3-031-30826-0_18), [paper](https://arxiv.org/abs/2012.11245) |  | U. of Manchester, UK |  |
+| ESBMC_KIND | [paper](https://doi.org/10.1007/978-3-030-17502-3_15), [paper](https://link.springer.com/article/10.1007/s10009-015-0407-9) |  | U. of Manchester, UK |  |
 
 ## 4 Other Topics
 ### 4.1 Verification for Neural Network and Machine Learning
