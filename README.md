@@ -69,8 +69,8 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 ## 4 Other Topics
 ### 4.1 Verification for Neural Network and Machine Learning
 1. **WFVML** (ICML Workshop on Formal Verification of Machine Learning) <br />
-   i. [2023 Workshop](https://icml.cc/virtual/2023/workshop/21471)
-   ii. [2022 Workshop](https://icml.cc/virtual/2022/workshop/13473)
+   i. [2023 Workshop](https://icml.cc/virtual/2023/workshop/21471) <br />
+   ii. [2022 Workshop](https://icml.cc/virtual/2022/workshop/13473) <br />
 
 ## 5 Researchers to Follow-up
 ### 5.1 Europe
