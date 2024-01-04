@@ -5,6 +5,7 @@
 1. Clarke, EdmundM., et al. **“Handbook of Model Checking.”** Springer International Publishing eBooks, 2018, https://doi.org/10.1007/978-3-319-10575-8;
 2. [Formal verification in hardware design: a survey](https://dl.acm.org/doi/10.1145/307988.307989);
 3. [Model Checking (standford lecture)](https://web.stanford.edu/class/cs357/lecture12.pdf);
+4. [SMT-based Model Checking of Transition Systems](https://www.di.ens.fr/~pouzet/cours/mpri/cours-smt.pdf)
 
 ### 1.1 Resources
 1. **Formal Methods and Machine Learning**, related paper collections in git repo [jdnklau/fm-ml](https://github.com/jdnklau/fm-ml)
@@ -40,7 +41,9 @@
 2. **Avr**, [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-45190-5_23.pdf), [github](https://github.com/aman-goel/avr)
 3. **Spacer in Z3 Theorem Prover**, [introduction](https://spacer.bitbucket.io/), [github](https://github.com/Z3Prover/z3/tree/master/src/muz/spacer)
 
-### 3.5 Word-level Hardware Data Structure
+### 3.5 Word-level Data Structure
+1. **Btor2**, [paper](https://fmv.jku.at/papers/NiemetzPreinerWolfBiere-CAV18.pdf), [btor2tools](https://github.com/Boolector/btor2tools)
+2. **SMT-LIB**, [Intro](https://smtlib.cs.uiowa.edu/)
 
 ### 3.6 Software Model Checker
 
