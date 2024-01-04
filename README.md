@@ -10,6 +10,8 @@
 ### 1.1 Resources
 1. **Formal Methods and Machine Learning**, related paper collections in git repo [jdnklau/fm-ml](https://github.com/jdnklau/fm-ml)
 2. **Fuzzing Methods**, related paper collections in git repo [wcventure/FuzzingPaper](https://github.com/wcventure/FuzzingPaper#difuzzrtl-differential-fuzz-testing-to-find-cpu-bug-sp-2021)
+3. **Neural Network Verifier**, git repo [Verified-Intelligence/alpha-beta-CROWN](https://github.com/Verified-Intelligence/alpha-beta-CROWN?tab=readme-ov-file)
+4. **Formal Verification for Machine Learning** Credit to He Bowei [link](https://docs.google.com/document/d/1tQYUGaPM-oWp0gunGaDKpzOLThG7oT78dVPi085vzI0/edit?pli=1)
 
 ### 1.2 Application Scenarios
 
