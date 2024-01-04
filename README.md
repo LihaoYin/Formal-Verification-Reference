@@ -10,7 +10,6 @@
 ### 1.1 Resources
 1. **Formal Methods and Machine Learning**, related paper collections in git repo [jdnklau/fm-ml](https://github.com/jdnklau/fm-ml)
 2. **Fuzzing Methods**, related paper collections in git repo [wcventure/FuzzingPaper](https://github.com/wcventure/FuzzingPaper#difuzzrtl-differential-fuzz-testing-to-find-cpu-bug-sp-2021)
-3. **Hardware Formal Verification**, related paper collections in git repo [Gy-Hu/HW-Formal-Paper](https://github.com/Gy-Hu/HW-Formal-Paper#papers-classified-by-publication)
 
 ### 1.2 Application Scenarios
 
@@ -30,6 +29,9 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 3. Efficient Implementation of Property Directed Reachability, FMCAD 2011, [paper](https://people.eecs.berkeley.edu/~alanmi/publications/2011/fmcad11_pdr.pdf)
 
 ### 2.4 Fuzzing
+1. StringFuzz: A fuzzer for string solvers, CAV 2018
+2. Feedback-Guided Circuit Structure Mutation for Testing Hardware Model Checkers, ICCAD 2021
+3. BMC+Fuzz: Efficient and Effective Test Generation, DATE 2022, [paper](https://ieeexplore.ieee.org/abstract/document/9774672)
 
 ### 2.5 Localization Abstraction
 1. Efficient Abstraction and Refinement for Word-level Model Checking, Yen-Sheng Ho's Thesis, [link](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-198.pdf)
@@ -63,6 +65,8 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 2. **SMT-LIB**, [Intro](https://smtlib.cs.uiowa.edu/)
 
 ### 3.6 Software Model Checker
+
+### 3.6 Software 
 
 ### 3.7 Fuzz and Bug Hunter
 
@@ -123,8 +127,8 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 
    
 ## 7 Related Competition
-1. Software Verification Competition (**SV-COMP**), https://sv-comp.sosy-lab.org/
-2. Software Testing Competition (**Test-COMP**), https://test-comp.sosy-lab.org/2024/
+1. Software Verification Competition (**SV-COMP**), [link](https://sv-comp.sosy-lab.org/)
+2. Software Testing Competition (**Test-COMP**), [report 2024](https://test-comp.sosy-lab.org/2024/)
 3. hardware Model Ceching Competition (**HWMCC**), https://fmv.jku.at/hwmcc20/ <br />
    i HWMCC-2020 all world-level checkers and their configuarations, [link](https://figshare.com/articles/software/CAV_2021_Artifact_Pono_Model_Checker/14479542)
 
