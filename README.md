@@ -5,7 +5,7 @@
 1. Clarke, EdmundM., et al. **“Handbook of Model Checking.”** Springer International Publishing eBooks, 2018, https://doi.org/10.1007/978-3-319-10575-8;
 2. [Formal verification in hardware design: a survey](https://dl.acm.org/doi/10.1145/307988.307989);
 3. [Model Checking (standford lecture)](https://web.stanford.edu/class/cs357/lecture12.pdf);
-4. [SMT-based Model Checking of Transition Systems](https://www.di.ens.fr/~pouzet/cours/mpri/cours-smt.pdf)
+4. [Slides: SMT-based Model Checking of Transition Systems](https://www.di.ens.fr/~pouzet/cours/mpri/cours-smt.pdf)
 
 ### 1.1 Resources
 1. **Formal Methods and Machine Learning**, related paper collections in git repo [jdnklau/fm-ml](https://github.com/jdnklau/fm-ml)
