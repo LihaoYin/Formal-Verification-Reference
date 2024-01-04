@@ -178,5 +178,5 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 ## 8 Benchmark
 ### 8.1 Classification by Application Scenario
 
-### 8.2 Classification by Data Structure
+### 8.2 Classification by Data Format
 
