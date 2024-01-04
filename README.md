@@ -24,20 +24,25 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 
 ### 2.2 Interpolation
 1. McMillan, Interpolation and SAT-based model checking, 2003, [paper](https://people.eecs.berkeley.edu/~alanmi/courses/2008_290A/papers/mcmillan_cav03.pdf)
+2. McMillan, Interpolants and Symbolic Model Checking, 2007, [paper](https://link.springer.com/chapter/10.1007/978-3-540-69738-1_6)
    
 ### 2.3 IC3/PDR
-1. Unbounded Model Checking, IC3 and PDR, [slides](https://ece.uwaterloo.ca/~agurfink/ece750t29f18/assets/pdf/05_IC3_PDR.pdf);
+1. Unbounded Model Checking, IC3 and PDR, [slides](https://ece.uwaterloo.ca/~agurfink/ece750t29f18/assets/pdf/05_IC3_PDR.pdf)
 2. Bradley, SAT-Based Model Checking without Unrolling, VMCAI 2011, [paper](https://theory.stanford.edu/~arbrad/papers/IC3.pdf)
 3. Efficient Implementation of Property Directed Reachability, FMCAD 2011, [paper](https://people.eecs.berkeley.edu/~alanmi/publications/2011/fmcad11_pdr.pdf)
+4. Infinite-state Invariant Checking with IC3 and Predicate Abstraction, FMSD, 2016, [paper](https://link.springer.com/article/10.1007/s10703-016-0257-4) (IC3 via Implicit Predicate Abstraction)
+5. Model Checking of Verilog RTL Using IC3 with Syntaxguided Abstraction, NFM, 2019, [paper](https://aman-goel.github.io/publications/goel2019model_preprint.pdf) (IC3 with Syntax-Guided Abstraction)
+6. Syntax-Guided Synthesis for Lemma Generation in Hardware Model Checking, VMCAI, 2021, [paper](https://oar.princeton.edu/bitstream/88435/pr1zc3s/1/SyntaxGuided.pdf), (SyGuS-PDR)
 
 ### 2.4 Fuzzing
-1. StringFuzz: A fuzzer for string solvers, CAV 2018
-2. Feedback-Guided Circuit Structure Mutation for Testing Hardware Model Checkers, ICCAD 2021
-3. BMC+Fuzz: Efficient and Effective Test Generation, DATE 2022, [paper](https://ieeexplore.ieee.org/abstract/document/9774672)
+1. [Slides: Software Verification: Testing vs. Model Checking](https://research.ibm.com/haifa/conferences/hvc2017/images/HVC17_Lemberger_Software%20Verification%20-%20Testing%20vs%20Model%20Checking.%20A%20Comparative%20Evaluation%20of%20the%20State%20of%20the%20Art.pdf), IBM Research
+2. StringFuzz: A fuzzer for string solvers, CAV 2018
+3. Feedback-Guided Circuit Structure Mutation for Testing Hardware Model Checkers, ICCAD 2021
+4. BMC+Fuzz: Efficient and Effective Test Generation, DATE 2022, [paper](https://ieeexplore.ieee.org/abstract/document/9774672)
 
 ### 2.5 Localization Abstraction
 1. Efficient Abstraction and Refinement for Word-level Model Checking, Yen-Sheng Ho's Thesis, [link](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-198.pdf)
-2. Yen-Sheng Ho, Enhancing PDR/IC3 with Localization Abstraction, iwls, 2017, [paper](https://people.eecs.berkeley.edu/~alanmi/publications/2017/iwls17_pdr.pdf)
+2. Yen-Sheng Ho, Enhancing PDR/IC3 with Localization Abstraction, IWLS, 2017, [paper](https://people.eecs.berkeley.edu/~alanmi/publications/2017/iwls17_pdr.pdf)
 
 ### 2.6 AI + Formal
 1. MachSMT: A Machine Learning-based Algorithm Selector for SMT Solvers, TACAS 2021, [paper](https://link.springer.com/chapter/10.1007/978-3-030-72013-1_16)
@@ -46,6 +51,8 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 4. ICE: A Robust Framework for Learning Invariants, CAV 2014, [paper](https://link.springer.com/chapter/10.1007/978-3-319-08867-9_5)
 
 ### 2.7 CEGAR
+1. Counterexample Guided Abstraction Refinement Via Program Execution, 2004, [paper](https://link.springer.com/chapter/10.1007/978-3-540-30482-1_23)
+2. Counterexample-guided prophecy for model checking modulo the theory of arrays, TACAS 2021, [paper](https://lmcs.episciences.org/9984/pdf) (CEGAR algorithm uses uninterpreted functions (UF))
 
 ## 3. Tools
 ### 3.1 Bit-level Hardware Model Checker
@@ -53,6 +60,7 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 2. **iimc**, [github](https://github.com/mgudemann/iimc)
 
 ### 3.2 Bit-level Hardware Logic Synthesis
+1. **Yosys**, [link](https://yosyshq.net/yosys/), [link](https://yosyshq.readthedocs.io/projects/yosys/en/latest/), [manual](https://yosyshq.net/yosys/files/yosys_manual.pdf), [github](https://github.com/YosysHQ/yosys)
 
 ### 3.3 Bit-level Hardware Data Structure
 1. **AIGER**, [paper](https://fmv.jku.at/papers/Biere-FMV-TR-07-1.pdf), [github](https://github.com/arminbiere/aiger)
@@ -65,12 +73,12 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 ### 3.5 Word-level Data Structure
 1. **Btor2**, [paper](https://fmv.jku.at/papers/NiemetzPreinerWolfBiere-CAV18.pdf), [btor2tools](https://github.com/Boolector/btor2tools)
 2. **SMT-LIB**, [Intro](https://smtlib.cs.uiowa.edu/)
+3. **SMV**, [slides](https://web.cs.wpi.edu/~kfisler/Courses/525V/S02/Readings/smv-cadence.pdf), [slides](https://www.cs.cmu.edu/~emc/15414-f11/lecture/lec13_SMV.pdf)
+   i. **Verilog2SMV**, [link](https://es-static.fbk.eu/tools/verilog2smv/), [paper](https://ieeexplore.ieee.org/document/7459485)
 
 ### 3.6 Software Model Checker
 
 ### 3.6 Software Tester
-
-### 3.7 Fuzz and Bug Hunter
 
 ## 4 Other Topics
 ### 4.1 Verification for Neural Network and Machine Learning
