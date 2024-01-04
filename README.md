@@ -98,7 +98,7 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
    i. Accepted Papers <br />
          a. [2023 Accepted Papers](https://fmcad.org/FMCAD23/accepted/) <br />
          b. [2022 Accepted Papers](https://fmcad.org/FMCAD22/accepted/) <br />
-   ii. Submission Deadline <br />
+   ii. Next Submission Deadline <br />
          a. Deadlines for 2024 to be announced <br />
          b. May 22, 2023 last year <br />
    iii. Recent Highlights <br />
@@ -108,7 +108,7 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
    &emsp; a. [2024 Accepted Papers](https://popl24.sigplan.org/home/VMCAI-2024#event-overview) <br />
    &emsp; b. [2023 Accepted Papers](https://popl23.sigplan.org/home/VMCAI-2023#event-overview) <br />
    &emsp; c. [2022 Accepted Papers](https://popl22.sigplan.org/home/VMCAI-2022#event-overview) <br />
-   ii. Submission Deadline <br />
+   ii. Next Submission Deadline <br />
    &emsp; a. Deadlines for 2024 to be announced <br />
    &emsp; b. Spe 7, 2023 last year <br />
    iii. Recent Highlights <br />
@@ -117,7 +117,7 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
    i. Accepted Papers <br />
    &emsp; a. [2023 Accepted Papers](http://www.i-cav.org/2023/accepted-papers/) <br />
    &emsp; b. [2022 Accepted Papers](http://i-cav.org/2022/accepted-papers/) <br />
-   ii. Submission Deadline <br />
+   ii. Next Submission Deadline <br />
    &emsp; a. Jan 19, 2024 <br />
    iii. Recent Highlights <br />
 
