@@ -129,7 +129,7 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 ## 7 Related Competition
 1. Software Verification Competition (**SV-COMP**), [link](https://sv-comp.sosy-lab.org/)
 2. Software Testing Competition (**Test-COMP**), [publication 2024](https://test-comp.sosy-lab.org/2024/), [resuls](https://test-comp.sosy-lab.org/2023/results/results-verified/)
-3. hardware Model Ceching Competition (**HWMCC**), https://fmv.jku.at/hwmcc20/ <br />
+3. hardware Model Ceching Competition (**HWMCC**), [link](https://fmv.jku.at/hwmcc20/) <br />
    i. HWMCC-2020 all world-level checkers and their configuarations, [link](https://figshare.com/articles/software/CAV_2021_Artifact_Pono_Model_Checker/14479542)
 
 ## 8 Benchmark
