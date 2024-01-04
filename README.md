@@ -131,7 +131,7 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 
 8. **ESOP** (European Symposium on Programming) <br />
 
-8. **ATAV** (International Symposium on Automated Thecnology for Verification and Analysis) <br />
+8. **ATAV** (International Symposium on Automated Technology for Verification and Analysis) <br />
 
 
 
