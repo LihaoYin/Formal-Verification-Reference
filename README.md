@@ -16,7 +16,9 @@
 ### 1.2 Application Scenarios
 1. Hardware Verification
 2. Concurrency Verification
-3. Verification in Safety and Trustworthiness of LLMs [survey paper](https://arxiv.org/abs/2305.11391),  [FuzzGPT](https://arxiv.org/abs/2304.02014)
+3. Verification in Safety and Trustworthiness of LLMs <br />
+   i. [survey paper](https://arxiv.org/abs/2305.11391) <br />
+   ii. [FuzzGPT](https://arxiv.org/abs/2304.02014) <br />
 
 ## 2. Model Checking Algorithms
 ### 2.1 Bounded Model Checking
