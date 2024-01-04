@@ -55,7 +55,7 @@
 ## 5 Researchers to Follow-up
 ### 5.1 Europe
 1. [USI - Formal Verification and Security Lab](https://verify.inf.usi.ch/)
-2. [JKU-Institute for Formal Models and Verification Group](https://fmv.jku.at/index.html) (Organizer of HWMCC'20, has good publication record in formal verification)
+2. [JKU-Institute for Formal Models and Verification Group](https://fmv.jku.at/index.html) (Organizer of HWMCC'20)
 
 ## 6 Related Conference
 0. [Upcoming Formal Methods Events](https://www.fmeurope.org/feature/upcoming_conferences/)
