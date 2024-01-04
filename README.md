@@ -10,7 +10,6 @@
 1. **Formal Methods and Machine Learning**, related paper collections in git repo [jdnklau/fm-ml](https://github.com/jdnklau/fm-ml)
 2. **Fuzzing Methods**, related paper collections in git repo [wcventure/FuzzingPaper](https://github.com/wcventure/FuzzingPaper#difuzzrtl-differential-fuzz-testing-to-find-cpu-bug-sp-2021)
 3. **Hardware Formal Verification**, related paper collections in git repo [Gy-Hu/HW-Formal-Paper](https://github.com/Gy-Hu/HW-Formal-Paper#papers-classified-by-publication)
-4. ****
 
 ## Model Checking Algorithms
 ### Bounded Model Checking
