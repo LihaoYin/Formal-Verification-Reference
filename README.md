@@ -46,7 +46,10 @@
 ### 3.7 Fuzz and Bug Hunter
 
 ## 4 Other Topics
-### 4.1 Neural Network Verification
+### 4.1 Neural Network Verification and Machine Learning
+1. **WFVML** (ICML Workshop on Formal Verification of Machine Learning) <br />
+   i. [2023 Workshop](https://icml.cc/virtual/2023/workshop/21471)
+   ii. [2022 Workshop](https://icml.cc/virtual/2022/workshop/13473)
 
 ## 5 Researchers to Follow-up
 
