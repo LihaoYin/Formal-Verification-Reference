@@ -15,8 +15,10 @@
 
 ### 1.2 Application Scenarios
 1. Hardware Verification
-2. Concurrency Verification
-3. Verification in Safety and Trustworthiness of LLMs <br />
+2. Concurrency Verification <br />
+   i. [Slides: Concurrency and Security](https://www.dcc.fc.up.pt/~edrdo/aulas/qses/lectures/qses-07-concurrency.pdf) <br />
+   ii. [Princeton Report](https://www.cs.princeton.edu/techreports/2019/012.pdf) <br />
+4. Verification in Safety and Trustworthiness of LLMs <br />
    i. [survey paper](https://arxiv.org/abs/2305.11391) <br />
    ii. [FuzzGPT](https://arxiv.org/abs/2304.02014) <br />
 
