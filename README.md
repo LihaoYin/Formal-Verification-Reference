@@ -66,7 +66,7 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 
 ### 3.6 Software Model Checker
 
-### 3.6 Software 
+### 3.6 Software Testing
 
 ### 3.7 Fuzz and Bug Hunter
 
