@@ -6,6 +6,12 @@
 2. [Formal verification in hardware design: a survey](https://dl.acm.org/doi/10.1145/307988.307989);
 3. [Model Checking (standford lecture)](https://web.stanford.edu/class/cs357/lecture12.pdf);
 
+### Resources
+1. **Formal Methods and Machine Learning**, related paper collections in git repo [jdnklau/fm-ml](https://github.com/jdnklau/fm-ml)
+2. **Fuzzing Methods**, related paper collections in git repo [wcventure/FuzzingPaper](https://github.com/wcventure/FuzzingPaper#difuzzrtl-differential-fuzz-testing-to-find-cpu-bug-sp-2021)
+3. **Hardware Formal Verification**, related paper collections in git repo [Gy-Hu/HW-Formal-Paper](https://github.com/Gy-Hu/HW-Formal-Paper#papers-classified-by-publication)
+4. ****
+
 ## Model Checking Algorithms
 ### Bounded Model Checking
 1. **BMC and K-IND**, Armin Biere et al.， Bounded Model Checking， 2003；[paper](https://www.cs.cmu.edu/~emc/papers/Books%20and%20Edited%20Volumes/Bounded%20Model%20Checking.pdf)
