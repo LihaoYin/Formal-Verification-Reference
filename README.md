@@ -176,5 +176,7 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 4. International Verification of Neural Networks Competition (**VNN-COMP**), [link](https://vnncomp.christopher-brix.de/)
 
 ## 8 Benchmark
-### SMT2 Format
+### Classification by Application Scenario
+
+### Classification by Data Structure
 
