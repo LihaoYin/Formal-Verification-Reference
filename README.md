@@ -14,6 +14,9 @@
 4. **Formal Verification for Machine Learning** Credit to He Bowei [link](https://docs.google.com/document/d/1tQYUGaPM-oWp0gunGaDKpzOLThG7oT78dVPi085vzI0/edit?pli=1)
 
 ### 1.2 Application Scenarios
+1. Hardware Verification
+2. Concurrency Verification
+3. Verification in Safety and Trustworthiness of LLMs [survey paper](https://arxiv.org/abs/2305.11391)
 
 ## 2. Model Checking Algorithms
 ### 2.1 Bounded Model Checking
