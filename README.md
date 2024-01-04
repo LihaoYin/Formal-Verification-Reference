@@ -73,7 +73,7 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 ### 3.5 Word-level Data Structure
 1. **Btor2**, [paper](https://fmv.jku.at/papers/NiemetzPreinerWolfBiere-CAV18.pdf), [btor2tools](https://github.com/Boolector/btor2tools)
 2. **SMT-LIB**, [Intro](https://smtlib.cs.uiowa.edu/)
-3. **SMV**, [slides](https://web.cs.wpi.edu/~kfisler/Courses/525V/S02/Readings/smv-cadence.pdf), [slides](https://www.cs.cmu.edu/~emc/15414-f11/lecture/lec13_SMV.pdf)
+3. **SMV**, [slides](https://web.cs.wpi.edu/~kfisler/Courses/525V/S02/Readings/smv-cadence.pdf), [slides](https://www.cs.cmu.edu/~emc/15414-f11/lecture/lec13_SMV.pdf) <br />
    i. **Verilog2SMV**, [link](https://es-static.fbk.eu/tools/verilog2smv/), [paper](https://ieeexplore.ieee.org/document/7459485)
 
 ### 3.6 Software Model Checker
