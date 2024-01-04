@@ -51,6 +51,7 @@
 ## 5 Researchers to Follow-up
 
 ## 6 Related Conference
+0. [Upcoming Formal Methods Events](https://www.fmeurope.org/feature/upcoming_conferences/)
 1. **FMCAD** (Formal Methods in Computer-Aided Design) <br />
    i. Accepted Papers <br />
          a. [2023 Accepted Papers](https://fmcad.org/FMCAD23/accepted/) <br />
@@ -75,8 +76,7 @@
    &emsp; a. [2023 Accepted Papers](http://www.i-cav.org/2023/accepted-papers/) <br />
    &emsp; b. [2022 Accepted Papers](http://i-cav.org/2022/accepted-papers/) <br />
    ii. Submission Deadline <br />
-   &emsp; a. Deadlines for 2024 to be announced <br />
-   &emsp; b. May 29, 2023 last year <br />
+   &emsp; a. Jan 19, 2024 <br />
    iii. Recent Highlights <br />
    
 ## 7 Related Competition
