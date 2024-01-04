@@ -1,6 +1,6 @@
-# Formal-Verification Reference List
-
 [toc]
+
+# Formal-Verification Reference List
 
 ## 1. Introduction
 
