@@ -55,7 +55,7 @@
 ## 5 Researchers to Follow-up
 ### 5.1 Europe
 1. [USI - Formal Verification and Security Lab](https://verify.inf.usi.ch/)
-2. 
+2. [JKU-Institute for Formal Models and Verification Group](https://fmv.jku.at/index.html) (Organizer of HWMCC'20, has good publication record in formal verification)
 
 ## 6 Related Conference
 0. [Upcoming Formal Methods Events](https://www.fmeurope.org/feature/upcoming_conferences/)
@@ -93,9 +93,11 @@
 
 6. **NFM** (NASA Formal Methods Symposium) <br />
 
-7. **FormaliSE** (INTERNATIONAL CONFERENCE ON FORMAL METHODS IN SOFTWARE ENGINEERING) <br />
+7. **FormaliSE** (International Conference on Formal Methods in Software Engineering) <br />
 
 8. **ESOP** (European Symposium on Programming) <br />
+
+8. **ATAV** (International Symposium on Automated Thecnology for Verification and Analysis) <br />
 
 
 
