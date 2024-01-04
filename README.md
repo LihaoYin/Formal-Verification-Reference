@@ -32,8 +32,14 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 ### 2.4 Fuzzing
 
 ### 2.5 Localization Abstraction
+1. Efficient Abstraction and Refinement for Word-level Model Checking, Yen-Sheng Ho's Thesis, [link](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-198.pdf)
+2. Yen-Sheng Ho, Enhancing PDR/IC3 with Localization Abstraction, iwls, 2017, [paper](https://people.eecs.berkeley.edu/~alanmi/publications/2017/iwls17_pdr.pdf)
 
 ### 2.6 AI + Formal
+1. MachSMT: A Machine Learning-based Algorithm Selector for SMT Solvers, TACAS 2021, [paper](https://link.springer.com/chapter/10.1007/978-3-030-72013-1_16)
+2. Code2Inv: A Deep Learning Framework for Program Verification, CAV 2020, [paper](https://link.springer.com/chapter/10.1007/978-3-030-53291-8_9)
+3. A Data-Driven CHC Solver, PLDI 2018, [paper](https://dl.acm.org/doi/abs/10.1145/3296979.3192416)
+4. ICE: A Robust Framework for Learning Invariants, CAV 2014, [paper](https://link.springer.com/chapter/10.1007/978-3-319-08867-9_5)
 
 ### 2.7 CEGAR
 
