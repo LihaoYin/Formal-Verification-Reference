@@ -51,7 +51,34 @@
 ## 5 Researchers to Follow-up
 
 ## 6 Related Conference
+1. **FMCAD** (Formal Methods in Computer-Aided Design) <br />
+   i. Accepted Papers <br />
+      a. [2023 Accepted Papers](https://fmcad.org/FMCAD23/accepted/) <br />
+      b. [2022 Accepted Papers](https://fmcad.org/FMCAD22/accepted/) <br />
+   ii. Submission Deadline <br />
+      a. Deadlines for 2024 to be announced <br />
+      b. May 22, 2023 last year <br />
+   iii. Recent Highlights <br />
+   
+2. **VMCAI** (International Conference on Verification, Model Checking, and Abstract Interpretation) <br />
+   i. Accepted Papers <br />
+      a. [2024 Accepted Papers](https://popl24.sigplan.org/home/VMCAI-2024#event-overview) <br />
+      b. [2023 Accepted Papers](https://popl23.sigplan.org/home/VMCAI-2023#event-overview) <br />
+      c. [2022 Accepted Papers](https://popl22.sigplan.org/home/VMCAI-2022#event-overview) <br />
+   ii. Submission Deadline <br />
+      a. Deadlines for 2024 to be announced <br />
+      b. Spe 7, 2023 last year <br />
+   iii. Recent Highlights <br />
 
+1. **CAV** (Computer Aided Verification) <br />
+   i. Accepted Papers <br />
+      a. [2023 Accepted Papers](http://www.i-cav.org/2023/accepted-papers/) <br />
+      b. [2022 Accepted Papers](http://i-cav.org/2022/accepted-papers/) <br />
+   ii. Submission Deadline <br />
+      a. Deadlines for 2024 to be announced <br />
+      b. May 29, 2023 last year <br />
+   iii. Recent Highlights <br />
+   
 ## 7 Related Competition
 1. Software Verification Competition (**SV-COMP**), https://sv-comp.sosy-lab.org/
 2. Software Testing Competition (**Test-COMP**), https://test-comp.sosy-lab.org/2024/
