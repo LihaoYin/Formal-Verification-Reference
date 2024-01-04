@@ -38,6 +38,7 @@
 ### 3.4 Word-level Hardware Model Checker
 1. **Pono**, [paper](https://theory.stanford.edu/~barrett/pubs/MIL+21.pdf), [github](https://github.com/stanford-centaur/pono)
 2. **Avr**, [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-45190-5_23.pdf), [github](https://github.com/aman-goel/avr)
+3. **Spacer in Z3 Theorem Prover**, [introduction](https://spacer.bitbucket.io/), [github](https://github.com/Z3Prover/z3/tree/master/src/muz/spacer)
 
 ### 3.5 Word-level Hardware Data Structure
 
@@ -52,6 +53,9 @@
    ii. [2022 Workshop](https://icml.cc/virtual/2022/workshop/13473)
 
 ## 5 Researchers to Follow-up
+### 5.1 Europe
+1. [USI - Formal Verification and Security Lab](https://verify.inf.usi.ch/)
+2. 
 
 ## 6 Related Conference
 0. [Upcoming Formal Methods Events](https://www.fmeurope.org/feature/upcoming_conferences/)
@@ -101,3 +105,7 @@
 2. Software Testing Competition (**Test-COMP**), https://test-comp.sosy-lab.org/2024/
 3. hardware Model Ceching Competition (**HWMCC**), https://fmv.jku.at/hwmcc20/ <br />
    3.1 HWMCC-2020 all world-level checkers and their configuarations, [link](https://figshare.com/articles/software/CAV_2021_Artifact_Pono_Model_Checker/14479542)
+
+## 8 Benchmark
+### SMT2 Format
+
