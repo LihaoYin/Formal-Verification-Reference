@@ -120,11 +120,11 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 
 1. **FMCAD** (Formal Methods in Computer-Aided Design) <br />
    i. Accepted Papers <br />
-         a. [2023 Accepted Papers](https://fmcad.org/FMCAD23/accepted/) <br />
-         b. [2022 Accepted Papers](https://fmcad.org/FMCAD22/accepted/) <br />
+   &emsp; a. [2023 Accepted Papers](https://fmcad.org/FMCAD23/accepted/) <br />
+   &emsp; b. [2022 Accepted Papers](https://fmcad.org/FMCAD22/accepted/) <br />
    ii. Next Submission Deadline <br />
-         a. Deadlines for 2024 to be announced <br />
-         b. May 22, 2023 last year <br />
+   &emsp; a. Deadlines for 2024 to be announced <br />
+   &emsp; b. May 22, 2023 last year <br />
    iii. Recent Highlights <br />
    
 2. **VMCAI** (International Conference on Verification, Model Checking, and Abstract Interpretation) <br />
