@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-1. Clarke, EdmundM., et al. **“Handbook of Model Checking.”** Springer International Publishing eBooks, 2018, https://doi.org/10.1007/978-3-319-10575-8;
+1. Clarke, EdmundM., et al. **“Handbook of Model Checking.”** Springer International Publishing eBooks, 2018, [Handbook](https://doi.org/10.1007/978-3-319-10575-8);
 2. [Formal verification in hardware design: a survey](https://dl.acm.org/doi/10.1145/307988.307989);
 3. [Model Checking (standford lecture)](https://web.stanford.edu/class/cs357/lecture12.pdf);
 4. [Slides: SMT-based Model Checking of Transition Systems](https://www.di.ens.fr/~pouzet/cours/mpri/cours-smt.pdf)
@@ -14,12 +14,17 @@
 
 ## 2. Model Checking Algorithms
 ### 2.1 Bounded Model Checking
-1. **BMC and K-IND**, Armin Biere et al.， Bounded Model Checking， 2003；[paper](https://www.cs.cmu.edu/~emc/papers/Books%20and%20Edited%20Volumes/Bounded%20Model%20Checking.pdf)
+1. **BMC and K-IND**, Armin Biere et al.， Bounded Model Checking，2003, [paper](https://www.cs.cmu.edu/~emc/papers/Books%20and%20Edited%20Volumes/Bounded%20Model%20Checking.pdf)
+2. **K-Induction**, 
+Sheeran, Singh, and Stålmarck, Checking
+Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di.ens.fr/~pouzet/cours/mpri/bib/sheeran-FMCAD00.pdf)
 
 ### 2.2 Interpolation
-
+1. McMillan, Interpolation and SAT-based model checking, 2003, [paper](https://people.eecs.berkeley.edu/~alanmi/courses/2008_290A/papers/mcmillan_cav03.pdf)
+   
 ### 2.3 IC3/PDR
 1. Unbounded Model Checking, IC3 and PDR, [slides](https://ece.uwaterloo.ca/~agurfink/ece750t29f18/assets/pdf/05_IC3_PDR.pdf);
+2. Bradley, SAT-Based Model Checking without Unrolling, 2011, [paper](https://theory.stanford.edu/~arbrad/papers/IC3.pdf)
 
 ### 2.4 Fuzzing
 
