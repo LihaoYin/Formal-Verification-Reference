@@ -12,6 +12,8 @@
 2. **Fuzzing Methods**, related paper collections in git repo [wcventure/FuzzingPaper](https://github.com/wcventure/FuzzingPaper#difuzzrtl-differential-fuzz-testing-to-find-cpu-bug-sp-2021)
 3. **Hardware Formal Verification**, related paper collections in git repo [Gy-Hu/HW-Formal-Paper](https://github.com/Gy-Hu/HW-Formal-Paper#papers-classified-by-publication)
 
+### 1.2 Application Scenarios
+
 ## 2. Model Checking Algorithms
 ### 2.1 Bounded Model Checking
 1. **BMC and K-IND**, Armin Biere et al.， Bounded Model Checking，2003, [paper](https://www.cs.cmu.edu/~emc/papers/Books%20and%20Edited%20Volumes/Bounded%20Model%20Checking.pdf)
