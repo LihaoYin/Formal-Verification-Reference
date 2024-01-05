@@ -121,6 +121,10 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
    i. [2023 Workshop](https://icml.cc/virtual/2023/workshop/21471) <br />
    ii. [2022 Workshop](https://icml.cc/virtual/2022/workshop/13473) <br />
 
+### Fuzzing with LLMs
+1. Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models, 2022, [paper](https://export.arxiv.org/abs/2212.14834)
+2. Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction, 2023, [paper](https://arxiv.org/abs/2209.11515)
+
 ## 5 Researchers to Follow-up
 ### 5.1 Europe
 1. [USI - Formal Verification and Security Lab](https://verify.inf.usi.ch/)
