@@ -8,7 +8,7 @@
 4. [Slides: SMT-based Model Checking of Transition Systems](https://www.di.ens.fr/~pouzet/cours/mpri/cours-smt.pdf)
 
 ### 1.1 Resources
-0. **Our Reading Group**
+0. **Our Reading Group**, [link](https://github.com/LihaoYin/Formal-Verification-Reference/blob/main/Paper-Reading-Group)
 1. **Formal Methods and Machine Learning**, related paper collections in git repo [jdnklau/fm-ml](https://github.com/jdnklau/fm-ml)
 2. **Fuzzing Methods**, related paper collections in git repo [wcventure/FuzzingPaper](https://github.com/wcventure/FuzzingPaper#difuzzrtl-differential-fuzz-testing-to-find-cpu-bug-sp-2021)
 3. **Neural Network Verifier**, git repo [Verified-Intelligence/alpha-beta-CROWN](https://github.com/Verified-Intelligence/alpha-beta-CROWN?tab=readme-ov-file)
