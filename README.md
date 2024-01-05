@@ -17,7 +17,6 @@
 ### 1.2 Online Courses
 1. Introduction to Model Checking, [link](https://moves.rwth-aachen.de/teaching/ss-18/introduction-to-model-checking/)
 2. Formal Verification Meets Machine Learning, [link](https://moves.rwth-aachen.de/teaching/ss-18/fvmml/)
-3. Modelling and Verification of Probabilistic Systems, [link](https://moves.rwth-aachen.de/teaching/ws-23-24/modelling-and-verification-of-probabilistic-systems/)
 
 ### 1.3 Application Scenarios
 1. Hardware Verification
