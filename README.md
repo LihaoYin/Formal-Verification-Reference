@@ -1,5 +1,7 @@
 # Formal-Verification Reference List
 
+* [Introduction](https://github.com/LihaoYin/Formal-Verification-Reference/tree/main?tab=readme-ov-file#1-introduction)
+
 ## 1. Introduction
 
 1. Clarke, EdmundM., et al. **“Handbook of Model Checking.”** Springer International Publishing eBooks, 2018, [Handbook](https://doi.org/10.1007/978-3-319-10575-8);
