@@ -1,10 +1,5 @@
 # Formal-Verification Reference List
 
-* 1. [Introduction](## 1. Introduction)
-   * 1.1 [Paper Collections](### 1.1 Paper Collections)
-   * 1.2 [Online Courses](https://github.com/LihaoYin/Formal-Verification-Reference/tree/main?tab=readme-ov-file#12-online-courses)
-   * 1.3 [Application Scenarios](https://github.com/LihaoYin/Formal-Verification-Reference/tree/main?tab=readme-ov-file#13-application-scenarios)
-
 ## 1. Introduction
 
 1. Clarke, EdmundM., et al. **“Handbook of Model Checking.”** Springer International Publishing eBooks, 2018, [Handbook](https://doi.org/10.1007/978-3-319-10575-8);
