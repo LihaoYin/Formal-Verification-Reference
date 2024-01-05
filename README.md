@@ -32,7 +32,6 @@
    i. A State-of-the-Art Survey on Formal Verification of the Internet of Things Applications, 2019, [paper](https://link.springer.com/article/10.1007/s12927-019-0003-8) <br />
    ii. Towards formal verification of IoT protocols: A Review, 2020, [paper](https://www.sciencedirect.com/science/article/pii/S1389128619317116) <br />
    iii. A Survey on Formal Verification and Validation Techniques for Internet of Things, 2023, [paper](https://www.mdpi.com/2076-3417/13/14/8122) <br />
-7. Memory Error <br />
 
 
 ## 2. Formal Verification Algorithms
