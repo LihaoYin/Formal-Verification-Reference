@@ -1,5 +1,7 @@
 # Formal-Verification Reference List
 
+* [1. Introduction](#1-1. Introduction)
+
 ## 1. Introduction
 
 1. Clarke, EdmundM., et al. **“Handbook of Model Checking.”** Springer International Publishing eBooks, 2018, [Handbook](https://doi.org/10.1007/978-3-319-10575-8);
