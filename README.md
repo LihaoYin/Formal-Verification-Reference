@@ -7,14 +7,19 @@
 3. [Model Checking (standford lecture)](https://web.stanford.edu/class/cs357/lecture12.pdf);
 4. [Slides: SMT-based Model Checking of Transition Systems](https://www.di.ens.fr/~pouzet/cours/mpri/cours-smt.pdf)
 
-### 1.1 Resources
+### 1.1 Paper Collections
 0. **Our Reading Group**, [link](https://github.com/LihaoYin/Formal-Verification-Reference/blob/main/Paper-Reading-Group)
 1. **Formal Methods and Machine Learning**, related paper collections in git repo [jdnklau/fm-ml](https://github.com/jdnklau/fm-ml)
 2. **Fuzzing Methods**, related paper collections in git repo [wcventure/FuzzingPaper](https://github.com/wcventure/FuzzingPaper#difuzzrtl-differential-fuzz-testing-to-find-cpu-bug-sp-2021)
 3. **Neural Network Verifier**, git repo [Verified-Intelligence/alpha-beta-CROWN](https://github.com/Verified-Intelligence/alpha-beta-CROWN?tab=readme-ov-file)
 4. **Formal Verification for Machine Learning** Credit to He Bowei [link](https://docs.google.com/document/d/1tQYUGaPM-oWp0gunGaDKpzOLThG7oT78dVPi085vzI0/edit?pli=1)
 
-### 1.2 Application Scenarios
+### 1.2 Online Courses
+1. Introduction to Model Checking, [link](https://moves.rwth-aachen.de/teaching/ss-18/introduction-to-model-checking/)
+2. Formal Verification Meets Machine Learning, [link](https://moves.rwth-aachen.de/teaching/ss-18/fvmml/)
+3. Modelling and Verification of Probabilistic Systems, [link](https://moves.rwth-aachen.de/teaching/ws-23-24/modelling-and-verification-of-probabilistic-systems/)
+
+### 1.3 Application Scenarios
 1. Hardware Verification
 2. Concurrency Verification <br />
    i. [Slides: Concurrency and Security](https://www.dcc.fc.up.pt/~edrdo/aulas/qses/lectures/qses-07-concurrency.pdf) <br />
