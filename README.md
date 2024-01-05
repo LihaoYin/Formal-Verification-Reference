@@ -28,10 +28,16 @@
    ii. [FuzzGPT](https://arxiv.org/abs/2304.02014) <br />
 4. Side-Channel Detection <br />
 5. Data Flow Sensitivity <br />
-6. IoT protocols <br />
+6. IoT Protocols <br />
    i. A State-of-the-Art Survey on Formal Verification of the Internet of Things Applications, 2019, [paper](https://link.springer.com/article/10.1007/s12927-019-0003-8) <br />
    ii. Towards formal verification of IoT protocols: A Review, 2020, [paper](https://www.sciencedirect.com/science/article/pii/S1389128619317116) <br />
    iii. A Survey on Formal Verification and Validation Techniques for Internet of Things, 2023, [paper](https://www.mdpi.com/2076-3417/13/14/8122) <br />
+7. Testing Deep Learning Libraries <br />
+   i. DocTer: Documentation-Guided Fuzzing for Testing Deep Learning API Functions, ISSTA, 2022, [paper](https://dl.acm.org/doi/abs/10.1145/3533767.3534220) <br />
+   ii. Fuzzing Deep-Learning Libraries via Automated Relational API Inference, ESEC/FSE, 2022, [paper](https://dl.acm.org/doi/abs/10.1145/3575693.3575707) <br />
+   iii. Incremental Bounded Model Checking of Artificial Neural Networks in CUDA, 2019, [paper](https://ieeexplore.ieee.org/abstract/document/9046094) <br />
+   iV. Free Lunch for Testing: Fuzzing Deep-Learning Libraries from Open Source, ICSE, 2022, [paper](https://dl.acm.org/doi/abs/10.1145/3510003.3510041) <br />
+   v. Muffin: Testing Deep Learning Libraries via Neural Architecture Fuzzing, ICSE, 2022, [paper](https://dl.acm.org/doi/abs/10.1145/3510003.3510092) <br />
 
 
 ## 2. Formal Verification Algorithms
@@ -124,6 +130,7 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 1. **WFVML** (ICML Workshop on Formal Verification of Machine Learning) <br />
    i. [2023 Workshop](https://icml.cc/virtual/2023/workshop/21471) <br />
    ii. [2022 Workshop](https://icml.cc/virtual/2022/workshop/13473) <br />
+   iii. A review of formal methods applied to machine learning, 2021, [paper](https://arxiv.org/pdf/2104.02466.pdf) <br />
 
 ### 4.2 Fuzzing with LLMs
 1. Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models, 2022, [paper](https://export.arxiv.org/abs/2212.14834)
