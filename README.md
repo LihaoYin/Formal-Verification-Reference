@@ -23,8 +23,11 @@
    i. [survey paper](https://arxiv.org/abs/2305.11391) <br />
    ii. [FuzzGPT](https://arxiv.org/abs/2304.02014) <br />
 4. Side-Channel Detection <br />
-5. Data Flow Sensitive Fuzzing <br />
-6. IoT or protocols <br />
+5. Data Flow Sensitivity <br />
+6. IoT protocols <br />
+   i. A State-of-the-Art Survey on Formal Verification of the Internet of Things Applications, 2019, [paper](https://link.springer.com/article/10.1007/s12927-019-0003-8) <br />
+   ii. Towards formal verification of IoT protocols: A Review, 2020, [paper](https://www.sciencedirect.com/science/article/pii/S1389128619317116) <br />
+   iii. A Survey on Formal Verification and Validation Techniques for Internet of Things, 2023, [paper](https://www.mdpi.com/2076-3417/13/14/8122) <br />
 
 
 ## 2. Formal Verification Algorithms
@@ -48,9 +51,10 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 
 ### 2.4 Fuzzing
 1. [Slides: Software Verification: Testing vs. Model Checking](https://research.ibm.com/haifa/conferences/hvc2017/images/HVC17_Lemberger_Software%20Verification%20-%20Testing%20vs%20Model%20Checking.%20A%20Comparative%20Evaluation%20of%20the%20State%20of%20the%20Art.pdf), IBM Research
-2. StringFuzz: A fuzzer for string solvers, CAV 2018
-3. Feedback-Guided Circuit Structure Mutation for Testing Hardware Model Checkers, ICCAD 2021
+2. [Fuzzing: a survey](https://cybersecurity.springeropen.com/articles/10.1186/s42400-018-0002-y)
+3. Survey of Software Fuzzing Techniques, [paper](https://www.researchgate.net/publication/356980212_Survey_of_Software_Fuzzing_Techniques)
 4. BMC+Fuzz: Efficient and Effective Test Generation, DATE 2022, [paper](https://ieeexplore.ieee.org/abstract/document/9774672)
+5. A Review of Fuzzing Tools and Methods, [paper](https://wcventure.github.io/FuzzingPaper/Paper/2017_review.pdf)
 
 ### 2.5 Localization Abstraction
 1. Efficient Abstraction and Refinement for Word-level Model Checking, Yen-Sheng Ho's Thesis, [link](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-198.pdf)
