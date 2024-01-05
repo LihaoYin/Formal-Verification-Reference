@@ -1,6 +1,9 @@
 # Formal-Verification Reference List
 
-* [Introduction](https://github.com/LihaoYin/Formal-Verification-Reference/tree/main?tab=readme-ov-file#1-introduction)
+* 1. [Introduction](https://github.com/LihaoYin/Formal-Verification-Reference/tree/main?tab=readme-ov-file#1-introduction)
+** 1.1 [Paper Collections](https://github.com/LihaoYin/Formal-Verification-Reference/tree/main?tab=readme-ov-file#11-paper-collections)
+** 1.2 [Online Courses](https://github.com/LihaoYin/Formal-Verification-Reference/tree/main?tab=readme-ov-file#12-online-courses)
+** 1.3 [Application Scenarios](https://github.com/LihaoYin/Formal-Verification-Reference/tree/main?tab=readme-ov-file#13-application-scenarios)
 
 ## 1. Introduction
 
