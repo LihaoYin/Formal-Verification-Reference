@@ -6,6 +6,7 @@
 2. [Formal verification in hardware design: a survey](https://dl.acm.org/doi/10.1145/307988.307989);
 3. [Model Checking (standford lecture)](https://web.stanford.edu/class/cs357/lecture12.pdf);
 4. [Slides: SMT-based Model Checking of Transition Systems](https://www.di.ens.fr/~pouzet/cours/mpri/cours-smt.pdf)
+5. A Survey of Practical Formal Methods for Security, 2020, [paper](https://dl.acm.org/doi/full/10.1145/3522582)
 
 ### 1.1 Paper Collections
 0. **Our Reading Group**, [link](https://github.com/LihaoYin/Formal-Verification-Reference/blob/main/Paper-Reading-Group)
@@ -27,6 +28,7 @@
    i. [survey paper](https://arxiv.org/abs/2305.11391) <br />
    ii. [FuzzGPT](https://arxiv.org/abs/2304.02014) <br />
 4. Side-Channel Detection <br />
+   i. QFuzz: Quantitative Fuzzing for Side Channels, ISSTA, 2021, [paper](https://dl.acm.org/doi/pdf/10.1145/3460319.3464817) <br />
 5. Data Flow Sensitivity <br />
 6. IoT Protocols <br />
    i. A State-of-the-Art Survey on Formal Verification of the Internet of Things Applications, 2019, [paper](https://link.springer.com/article/10.1007/s12927-019-0003-8) <br />
