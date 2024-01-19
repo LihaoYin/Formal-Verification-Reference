@@ -45,9 +45,15 @@
 4. **Formal Verification for Machine Learning / LLMs** Credit to He Bowei [link](https://docs.google.com/document/d/1tQYUGaPM-oWp0gunGaDKpzOLThG7oT78dVPi085vzI0/edit?pli=1)
 
 ### 1.2 Online Courses
-1. Introduction to Model Checking, [link](https://moves.rwth-aachen.de/teaching/ss-18/introduction-to-model-checking/)
-2. Formal Verification Meets Machine Learning, [link](https://moves.rwth-aachen.de/teaching/ss-18/fvmml/)
-3. Neural Network Verification Tutorial, [link](https://neural-network-verification.com/)
+1. Introduction to Model Checking, Prof. Katoen, 2018
+   1. [slide](https://moves.rwth-aachen.de/teaching/ss-18/introduction-to-model-checking/)
+   2. [video](https://www.youtube.com/watch?v=Y5Hg4MvUXc4&list=PLwabKnOFhE38C0o6z_bhlF_uOUlblDTjh)
+2. Model Checking, Prof. B. Srivathsan, 2015
+   1. [slide](https://archive.nptel.ac.in/courses/106/106/106106136/)
+   2. [video](https://www.youtube.com/watch?v=piISG8bV2GI&list=PLJ5C_6qdAvBGojQMUzL4x5Y0N5gBJmT4l)
+
+3. Formal Verification Meets Machine Learning, [link](https://moves.rwth-aachen.de/teaching/ss-18/fvmml/)
+4. Neural Network Verification Tutorial, [link](https://neural-network-verification.com/)
 
 ### 1.3 Application Scenarios
 1. Hardware Verification
@@ -223,7 +229,7 @@ Safety Properties Using Induction and a SAT-Solver, 2000, [paper](https://www.di
 
 
 
-   
+
 ## 7 Related Competition
 1. Software Verification Competition (**SV-COMP**), [link](https://sv-comp.sosy-lab.org/)
 2. Software Testing Competition (**Test-COMP**), [publication 2024](https://test-comp.sosy-lab.org/2024/), [resuls](https://test-comp.sosy-lab.org/2023/results/results-verified/)
